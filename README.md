@@ -1,4 +1,6 @@
 # 🔐 Synology VPN Setup Guide
+![Made with 💻 by Rizki Caesar Noverdian](https://img.shields.io/badge/Made%20by-Rizki%20Caesar%20Noverdian-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Panduan lengkap mengatur **VPN Server di Synology NAS** (OpenVPN, PPTP, L2TP/IPSec), termasuk konfigurasi port dan firewall.
 
@@ -12,7 +14,8 @@ Panduan lengkap mengatur **VPN Server di Synology NAS** (OpenVPN, PPTP, L2TP/IPS
 ![Topologi Jaringan VPN](assets/Topologisynology.png)
 
 ## 📄 Panduan
-📥 [Unduh PDF](docs/panduan-setup-vpn-synology.pdf)
+📄 [Unduh Panduan PDF](docs/panduan-setup-vpn-synology.pdf)  
+🔐 [Download Konfigurasi OpenVPN](config/synology-vpn-client.ovpn)
 
 ## ⚙️ Contoh Konfigurasi OpenVPN
 
