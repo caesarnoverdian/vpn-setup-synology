@@ -27,6 +27,9 @@ persist-key
 persist-tun
 auth-user-pass
 comp-lzo
+remote-cert-tls server
+cipher AES-256-CBC
+auth SHA256
 verb 3
 ```
 
