@@ -15,7 +15,7 @@ Panduan lengkap mengatur **VPN Server di Synology NAS** (OpenVPN, PPTP, L2TP/IPS
 
 ## 📄 Panduan
 📄 [Unduh Panduan PDF](docs/panduan-setup-vpn-synology.pdf)  
-🔐 [Download Konfigurasi OpenVPN](config/synology-vpn-client.ovpn)
+🔐 [Download Konfigurasi OpenVPN](config/VPNConfig.ovpn)
 
 ## ⚙️ Contoh Konfigurasi OpenVPN
 
