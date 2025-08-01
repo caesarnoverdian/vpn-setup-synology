@@ -8,7 +8,8 @@ Panduan lengkap mengatur **VPN Server di Synology NAS** (OpenVPN, PPTP, L2TP/IPS
 - `config/` → Contoh konfigurasi OpenVPN
 
 ## 📷 Screenshot
-![Preview](assets/vpn-settings-preview.png)
+![VPN Settings di Synology](assets/vpnsynology.png)
+![Topologi Jaringan VPN](assets/Topologisynology.png)
 
 ## 📄 Panduan
 📥 [Unduh PDF](docs/panduan-setup-vpn-synology.pdf)
