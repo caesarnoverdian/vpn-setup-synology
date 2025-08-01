@@ -37,7 +37,7 @@ verb 3
 
 ## 👤 Kontributor
 **Rizki Caesar Noverdian**  
-[GitHub](https://github.com/caesarnoverdian) | [LinkedIn](https://linkedin.com/in/...)
+[GitHub](https://github.com/caesarnoverdian) | [LinkedIn](https://linkedin.com/in/rizki-caesar-noverdian-5296b9a4)
 
 ## 📜 Lisensi
 Proyek ini menggunakan [MIT License](LICENSE)
